@@ -1,5 +1,11 @@
 # The Cookie Jar SMP
 
+> **Warning**
+>
+> This project is under-going major changes to enable this project to be used for Bedrock (currently only contains startup scripts for Java).
+
+---
+
 This is the official Github organization for all code related to the Cookie Jar SMP Minecraft server.
 
 ### Repositories
